@@ -1,0 +1,6 @@
+{
+  "name": "QUANTUM GUARD",
+  "description": "Post-Quantum Cryptographic Migration Regression Analyzer — Phase 1 Frontend Prototype",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
